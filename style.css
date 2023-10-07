@@ -1,0 +1,17 @@
+button{
+    padding:8px;
+    border:1px solid pink;
+    margin:2% 0;
+    background-color:teal;
+    
+}
+input{
+    margin:3px;
+    background-color:#5C4B99;
+    padding:4px;
+    margin:1% 0px;
+}
+body{
+    font-size: 18px;
+    padding:2%;
+}
